@@ -10,6 +10,8 @@ A production-style Stripe webhook receiver built with **FastAPI** and **SQL**. I
 - ✅ **Ops endpoints**: health check, payment and event lists, manual retry, optional admin API key, Swagger docs.
 - ✅ **22 automated tests**
 
+![API docs](assets/swagger-docs.jpg)
+
 ## Architecture
 
 ```mermaid
